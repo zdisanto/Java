@@ -1,2 +1,73 @@
 # Java
 Re-learning Java in Codecademy, this is what I am working on so far.
+
+## Codecademy Syllabus:
+
+- Chapter 1: Hello World
+  - Lesson 1: Hello World
+    - Introduction to Java
+    - Hello Java File!
+    - Print Statements
+    - Commenting Code
+    - Semicolons and Whitespace
+    - Compilation: Catching Errors
+    - Compilation: Creating Executables
+    - Java Review: Putting it All Together
+  - Lesson 2: java Program Structure
+  - Lesson 3: Hello World
+  - Lesson 4: Planting a Tree
+  - Lesson 5: What is an IDE?
+- Chapter 2: Variables
+  - Lesson 1: Lean Java: Variables
+  - Lesson 2: Java Variables Quiz
+  - Lesson 3: Java Variables: Mad Libs
+  - Lesson 4: Lean Java: Manipulating Variables
+  - Lesson 5: Java Variable Manipulation Quiz
+  - Lesson 6: Math Magic
+- Chapter 3: Object-Oriented Java
+  - Lesson 1: Classes and Objects
+  - Lesson 2: Java: Introduction to Classes
+  - Lesson 3: Intro to Java Classes
+  - Lesson 4: Learn Java: Methods
+  - Lesson 5: Java Methods Quiz
+  - Lesson 6: A Basic Calculator
+  - Lesson 7: Build a Droid
+- Chapter 4: Conditionals and Control Flow
+  - Lesson 1: Conditionals and Control Flow
+  - Lesson 2: Conditional Operators
+  - Lesson 3: Conditionals and Control Flow
+  - Lesson 4: A Simple Car Loan Payment Calculator
+  - Lesson 5: Continents and Cities
+- Chapter 5: Arrays and ArrayLists
+  - Lesson 1: Learn Java: Arrays
+  - Lesson 2: Java Arrays Quiz
+  - Lesson 3: Learn Java: ArrayLists
+  - Lesson 4: Java ArrayList Quiz
+  - Lesson 5: Desert Island Playlist
+- Chapter 6: Loops
+  - Lesson 1: Learn Java: Loops
+  - Lesson 2: Learn Java: Loops Quiz
+  - Lesson 3: Fizz Buzz
+  - Lesson 4: The Prime Directive
+- Chapter 7: String Methods
+  - Lesson 1: String Methods
+  - Lesson 2: String Methods
+  - Lesson 3: DNA Sequencing
+- Chapter 8: Access, Encapsulation, and Static Methods
+  - Lesson 1: Access, Encapsulation, and Scope
+  - Lesson 2: Access, Encapsulation, and Scope
+  - Lesson 3: Static Methods of the Math Class
+  - Lesson 4: Static Variables and Methods
+  - Lesson 5: Static Variables and Methods
+- Chapter 9: Inheritance and Polymorphism
+  - Lesson 1: Inheritance and Polymorphism
+  - Lesson 2: Inheritance and Polymorphism Quiz
+  - Lesson 3: Language Families
+- Chapter 10: Debugging
+  - Lesson 1: Debugging
+  - Lesson 2: Debugging
+  - Lesson 3: Bug Detective
+- Chapter 11: Two-Dimensional Arrays
+  - Lesson 1: 2D Arrays: Java
+  - Lesson 2: Quiz: 2D Arrays in Java
+  - Lesson 3: 2D Arrays: Image Manipulation Project
