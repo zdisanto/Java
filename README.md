@@ -1,17 +1,31 @@
 # Java
 Re-learning Java in Codecademy, this is what I am working on so far.
 
+_Important_
+- To compile and execute a file you must enter commands in the terminal
+  - To compile file type: ```javac [fileName].java```
+    - If no error, compiler executes without any feedback
+    - If error, compiler may print:
+      - ```compiling.java:4: error: ';' expected    System.out.println("Java is a class-based language.")                                                         ^1 error```
+  - To "list" the availabe file(s) type: ```ls```
+    - If you type ```ls``` before compiling, output may look like:
+      - ```Compiling.java```
+    - If you type ```ls``` after compiling, output may look like:
+      - ```Compiling.class  Compiling.java``` <-- Hey look, a ```class``` file!
+  - Dont run ```javac [fileName].class``` in the terminal or the output may look like:
+    - ```javac: invalid flag: Compiling.class    Usage: javac <options> <source files>    use --help for a list of possible options```
+  - Run ```java Compiling``` to display the output in the terminal!
 ## Codecademy Syllabus:
 
 - Chapter 1: Hello World
   - Lesson 1: Hello World
-    - Introduction to Java
-    - Hello Java File!
-    - Print Statements
-    - Commenting Code
-    - Semicolons and Whitespace
+    - Introduction to Java 
+    - Hello Java File! ```HelloYou.```
+    - Print Statements ```HideAndSeek```
+    - Commenting Code ```Timeline```
+    - Semicolons and Whitespace ```LanguageFacts```
     - Compilation: Catching Errors
-    - Compilation: Creating Executables
+    - Compilation: Creating Executables 
     - Java Review: Putting it All Together
   - Lesson 2: java Program Structure
   - Lesson 3: Hello World
