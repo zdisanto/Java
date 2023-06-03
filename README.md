@@ -20,19 +20,28 @@ _Important_
 - Chapter 1: Hello World
   - Lesson 1: Hello World
     - Introduction to Java 
-    - Hello Java File! ```HelloYou.```
+    - Hello Java File! ```HelloYou```
     - Print Statements ```HideAndSeek```
     - Commenting Code ```Timeline```
     - Semicolons and Whitespace ```LanguageFacts```
     - Compilation: Catching Errors
     - Compilation: Creating Executables 
-    - Java Review: Putting it All Together
-  - Lesson 2: java Program Structure
+    - Java Review: Putting it All Together ```Review```
+  - Lesson 2: Java Program Structure
   - Lesson 3: Hello World
   - Lesson 4: Planting a Tree
   - Lesson 5: What is an IDE?
-- Chapter 2: Variables
-  - Lesson 1: Lean Java: Variables
+- Chapter 2: Variables 
+  - Lesson 1: Lean Java: Variables 
+    - Introduction ```Creator```
+    - ints ```CountComments```
+    - doubles ```MarketShare```
+    - booleans ```Booleans```
+    - char ```Char```
+    - String
+    - Static Checking
+    - Naming
+    - Review
   - Lesson 2: Java Variables Quiz
   - Lesson 3: Java Variables: Mad Libs
   - Lesson 4: Lean Java: Manipulating Variables
