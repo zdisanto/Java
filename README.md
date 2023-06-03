@@ -38,8 +38,8 @@ _Important_
     - doubles ```MarketShare```
     - booleans ```Booleans```
     - char ```Char```
-    - String
-    - Static Checking
+    - String ```Song```
+    - Static Checking ```Mess```
     - Naming
     - Review
   - Lesson 2: Java Variables Quiz
